@@ -1,0 +1,6 @@
+/Users/rakesh/Projects/VendingMachine/VendingMachine/obj/Debug/VendingMachine.csproj.AssemblyReference.cache
+/Users/rakesh/Projects/VendingMachine/VendingMachine/obj/Debug/VendingMachine.csproj.CoreCompileInputs.cache
+/Users/rakesh/Projects/VendingMachine/VendingMachine/bin/Debug/VendingMachine.exe
+/Users/rakesh/Projects/VendingMachine/VendingMachine/bin/Debug/VendingMachine.pdb
+/Users/rakesh/Projects/VendingMachine/VendingMachine/obj/Debug/VendingMachine.exe
+/Users/rakesh/Projects/VendingMachine/VendingMachine/obj/Debug/VendingMachine.pdb
